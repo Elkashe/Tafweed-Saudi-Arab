@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1045743311657",
+    "firebase_url": "https://ecommerce-cb837.firebaseio.com",
+    "project_id": "ecommerce-cb837",
+    "storage_bucket": "ecommerce-cb837.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045743311657:android:3abbd853ca054f07df7538",
+        "android_client_info": {
+          "package_name": "com.example.tafweed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045743311657-9a2bcbg2epc1kcfqmk5l1ddft2i1209o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAtwwp8yyyUP0vk2e6fXyK8n4IhLV8dDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045743311657-9a2bcbg2epc1kcfqmk5l1ddft2i1209o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
